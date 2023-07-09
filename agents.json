@@ -1,0 +1,36 @@
+[
+    {
+        "avatar_url": "https://geniuscript.com/selio-script/files/pero-agent.jpg",
+        "ID": "11",
+        "agent_exists": "1",
+        "profile_display_name": "Pero Petrić",
+        "display_name": "Pero Petrić",
+        "profile_email": "pero@estatepoint.com",
+        "user_email": "pero@estatepoint.com",
+        "count_listings": "4",
+        "profile_url": "https://geniuscript.com/selio-script/index.php/profile/11",
+        "wdk_phone": "+385 (0)92 123 321",
+        "wdk_facebook": "",
+        "wdk_linkedin": "",
+        "wdk_instagram": "",
+        "wdk_telegram": "",
+        "wdk_twitter": ""
+    },
+    {
+        "avatar_url": "https://geniuscript.com/selio-script/files/agent-lazo.jpg",
+        "ID": "10",
+        "agent_exists": "1",
+        "profile_display_name": "Lazo Biškup",
+        "display_name": "Lazo Biškup",
+        "profile_email": "lazo@estatepoint.com",
+        "user_email": "lazo@estatepoint.com",
+        "count_listings": "3",
+        "profile_url": "https://geniuscript.com/selio-script/index.php/profile/10",
+        "wdk_phone": "+385 (0)98 676 565",
+        "wdk_facebook": null,
+        "wdk_linkedin": null,
+        "wdk_instagram": "",
+        "wdk_telegram": "",
+        "wdk_twitter": null
+    }
+]
